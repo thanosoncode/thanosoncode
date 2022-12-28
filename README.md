@@ -1,4 +1,4 @@
-Hi 👋 My name is Thanos
+Hi there 👋 I'm Thanos
 =======================
 
 Frontend Developer
