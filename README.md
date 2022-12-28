@@ -7,7 +7,7 @@ Frontend Developer
 * 🌍  I'm based in the world!
 * 🖥️  See my portfolio at [https://www.thanosjs.com](http://www.thanosjs.com)
 * ✉️  You can contact me at [thanosoncode@gmail.com](mailto:thanosoncode@gmail.com)
-* 🧠  I'm learning Remix / Next
+* 🧠  I'm exploring backend using node.js express prisma mongoose and Remix.js / Next.js
 
 ### Skills
 
