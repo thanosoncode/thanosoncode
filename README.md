@@ -1,7 +1,7 @@
 Hi there I'm Thanos 👋 
 =======================
 
-Frontend Developer
+React Frontend Developer
 ------------------
 
 * 🌍  I'm based in Chania, Greece! (for now)
