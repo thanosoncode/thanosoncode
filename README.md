@@ -1,13 +1,12 @@
-Hi there I'm Thanos 👋 
+Hi there 👋 
 =======================
 
 React Frontend Developer
 ------------------
 
 * 🌍  I'm based in Chania, Greece (for now)
-* 🖥️  See my portfolio at [https://www.thanosjs.com](http://www.thanosjs.com)
-* ✉️  You can contact me at [thanosoncode@gmail.com](mailto:thanosoncode@gmail.com)
-* 🧠  I'm exploring some backend using Node.js Express Prisma Mongoose and Remix.js / Next.js
+* 🖥️  Checkout my outdated portfolio at [https://www.thanosjs.com](http://www.thanosjs.com)
+* ✉️   You can contact me at [thanosoncode@gmail.com](mailto:thanosoncode@gmail.com)
 
 ### Skills
 
