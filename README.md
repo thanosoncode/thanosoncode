@@ -4,7 +4,7 @@ Hi there 👋
 React Frontend Developer
 ------------------
 
-* 🌍  I'm based in Chania, Greece (for now)
+* 🌍  Based in Chania, Greece (for now)
 * 🖥️  Checkout my outdated portfolio at [https://www.thanosjs.com](http://www.thanosjs.com)
 * ✉️   You can contact me at [thanosoncode@gmail.com](mailto:thanosoncode@gmail.com)
 
